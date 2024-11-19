@@ -1,5 +1,4 @@
 # PLEX
-
 DST-PORT,32400
 DST-PORT,32401
 DST-PORT,32402
@@ -9,3 +8,7 @@ DOMAIN-SUFFIX,v6.plex.tv
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,plex.direct
+#  pt
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,rainbowisland.co
+DOMAIN-SUFFIX,chdbits.xyz
